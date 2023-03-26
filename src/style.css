@@ -1,4 +1,7 @@
 body {
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
   text-align: center;
   background-color: bisque;
 }
@@ -8,4 +11,8 @@ a {
 }
 a:visited {
   color: rgb(165, 81, 42);
+}
+
+.navigation-links {
+  margin: 0 10px;
 }
