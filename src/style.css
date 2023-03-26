@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background-color: bisque;
+}
+
+a {
+  color: rgb(165, 81, 42);
+}
+a:visited {
+  color: rgb(165, 81, 42);
+}
